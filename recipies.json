@@ -1,0 +1,320 @@
+[
+    {
+        "japanese": {
+            "name": "鍋",
+            "ingredients": ["キャベツ", "豆腐", "出汁", "豚", "ネギ"]
+        },
+        "english": {
+            "name": "nabe",
+            "ingredients": ["cabbage", "tofu", "dashi", "pork", "green onion"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "ポトフ",
+            "ingredients": ["ウィーなー", "出汁", "ポテト", "キャベツ"]
+        },
+        "english": {
+            "name": "blank",
+            "ingredients": ["wieners", "dashi", "potato", "cabbage"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "もやしサラダ",
+            "ingredients": ["blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "bean sprout salad",
+            "ingredients": ["bean sprouts", "sesame oil", "soy sauce", "toubanjan", "mirin"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "ハンバーグ",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "hamburg",
+            "ingredients": ["hamburg", "green onion", "onion", "salad", "rice"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "肉じゃが",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "nikujaga",
+            "ingredients": ["potato", "carrot", "beef", "rice noodle bundles"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "チキン大根スープ",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "chicken daikon soup",
+            "ingredients": ["chicken legs", "chicken thighs", "daikon", "cooking sake", "ponzu"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "ハヤシライス",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "hayashi rice",
+            "ingredients": ["beef", "onion", "hayashi rue", "rice"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "野菜炒め",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "veggie stir fry",
+            "ingredients": ["veggie mix", "moyashi", "cabbage", "carrot", "sesame oil"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "豚ニラ",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "nira pork",
+            "ingredients": ["pork", "nira", "rice", "sesame oil", "soy sauce"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "生姜焼き",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "ginger pork",
+            "ingredients": ["pork", "ginger paste", "sugar", "sesame oil", "soy sauce", "cooking sake", "rice"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "マグロ丼",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "magurodon",
+            "ingredients": ["tuna", "ooba", "rice", "mentsuyuu"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "親子丼",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "oyakodon",
+            "ingredients": ["chicken thighs", "eggs", "mentsuyuu", "rice", "ooba"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "人参サラダ",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "carrot salad",
+            "ingredients": ["carrot", "toubanjan", "torigara soup", "sesame oil"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "しめじべコン",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "shimeji bacon",
+            "ingredients": ["shimeji", "bacon", "mayonaise"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "チキン、トマト、ポテト",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "chiken, tomato, potato",
+            "ingredients": ["chicken thighs", "potato", "tomato", "rosemary", "basil"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "レモン鮭",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "lemon salmon",
+            "ingredients": ["salmon", "onion", "lemon", "olive oil", "rice"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "フライド椎茸",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "fried shiitake",
+            "ingredients": ["shiitake", "butter", "soy sauce"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "お好み焼き",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "okonomiyaki",
+            "ingredients": ["okonomiyaki flour", "olive oil", "ground beef", "shredded cabbage", "dashi powder"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "キノコスープ",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "mushroom soup",
+            "ingredients": ["mushrooms", "milk", "onion"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "チキン、人参、 蓮根、キノコ",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "chicken, carrot, lotus, mushroom",
+            "ingredients": ["chicken breast", "carrot", "lotus root", "brown mushrooms", "rice"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "マスタードチキン",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "mustard chicken",
+            "ingredients": ["chicken thighs", "dijion mustard", "cream", "rice"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "ビーフストロガノフ",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "beef stroganoff",
+            "ingredients": ["beef", "pasta", "cream", "worchestershire sauce"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "カレー",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "curry",
+            "ingredients": ["curry rue", "potato", "carrot", "onion", "beef"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "プルコギ",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "purukogi",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "チリと豆",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "chili with beans",
+            "ingredients": ["can of beans", "ground beef", "tomato sauce", "rice"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "キムチ豚",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "kim chee pork",
+            "ingredients": ["kim chee", "pork", "rice"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "卵焼き",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "tamagoyaki",
+            "ingredients": ["eggs", "dashi", "mayonaise", "blank", "blank"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "クリーミー鮭スープ",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "creamy salmon soup",
+            "ingredients": ["salmon", "cream", "milk", "broccoli", "rice"]
+        }
+    },
+
+    {
+        "japanese": {
+            "name": "親子ソロボ丼",
+            "ingredients": ["blank", "blank", "blank", "blank", "blank"]
+        },
+        "english": {
+            "name": "oyakosorobodon",
+            "ingredients": ["eggs", "ground chicken", "dashi", "rice"]
+        }
+    }
+]
